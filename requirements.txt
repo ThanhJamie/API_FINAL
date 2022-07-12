@@ -3,5 +3,5 @@ opencv-contrib-python-headless
 opencv-python
 gunicorn
 # tensorflow
-tensorflow-gpu
+tensorflow-gpu==2.9.1
 numpy
