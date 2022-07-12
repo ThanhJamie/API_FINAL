@@ -3,4 +3,4 @@ opencv-contrib-python-headless
 opencv-python
 gunicorn
 tensorflow
-Jinja2Templates
+tensorflow-gpu
