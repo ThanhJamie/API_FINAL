@@ -1,7 +1,10 @@
-fastapi
+fastapi==0.73.0
 opencv-contrib-python-headless
 opencv-python
 gunicorn
 # tensorflow
-tensorflow-gpu==2.9.1
-numpy
+tensorflow-cpu==2.9.1
+numpy==1.21.6
+uvicorn==0.15.0
+image==1.5.33
+opencv-python-headless
