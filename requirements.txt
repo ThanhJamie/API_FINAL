@@ -5,4 +5,3 @@ gunicorn
 # tensorflow
 tensorflow-gpu
 numpy
-io
