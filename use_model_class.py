@@ -13,7 +13,6 @@ face_cascade = cv2.CascadeClassifier('models/haarcascade_frontalface_default.xml
 
 """# Tồn tại khuôn mặt"""
 
-
 model = tf.keras.models.load_model(model_path)
 def response(frame):
     """# Load model"""
